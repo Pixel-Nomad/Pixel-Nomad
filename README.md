@@ -68,8 +68,6 @@ Comprehensive hospital management system with patient records, appointment sched
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pixel-Nomad&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pixel-Nomad&theme=radical&hide_border=true)
-
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Pixel-Nomad&theme=radical&hide_border=true&area=true)
 
 </div>
@@ -80,8 +78,6 @@ Comprehensive hospital management system with patient records, appointment sched
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-*Note: GitHub Actions are required to display recent activity. I can help you set this up!*
 
 ---
 
