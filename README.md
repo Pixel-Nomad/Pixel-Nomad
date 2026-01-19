@@ -74,13 +74,6 @@ Comprehensive hospital management system with patient records, appointment sched
 
 ---
 
-## 🔧 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
