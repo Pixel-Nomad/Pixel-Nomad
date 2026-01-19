@@ -75,13 +75,9 @@ Comprehensive hospital management system with patient records, appointment sched
 ---
 
 ## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamtayyabnaseem/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK_HERE)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK_HERE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK_HERE)
-
-**Email:** [YOUR_EMAIL_HERE]
+**Email:** mr.tgamer247797704@gmail.com
 
 ---
 
@@ -112,5 +108,3 @@ Comprehensive hospital management system with patient records, appointment sched
 I'm always interested in connecting with fellow developers, discussing potential projects, or exploring new opportunities. Whether you need a Discord bot, a FiveM framework, or a custom web application, feel free to reach out!
 
 ---
-
-*Last Updated: $(date +%B %Y)*
