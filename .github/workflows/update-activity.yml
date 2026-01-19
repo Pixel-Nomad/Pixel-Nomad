@@ -1,0 +1,28 @@
+name: Update README with Recent Activity
+
+on:
+  schedule:
+    # Runs every 4 hours
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+    # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'docs: update recent activity'
+          MAX_LINES: 10
+          COMMITTER_NAME: 'github-actions[bot]'
+          COMMITTER_EMAIL: 'github-actions[bot]@users.noreply.github.com'
